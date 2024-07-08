@@ -18,6 +18,7 @@ Project is created with:
 
  HTML, CSS, JavaScript
 # SAMPLE VIDEO
+https://github.com/VISHNU-CHIDAMBARAM-RADHAKRISHNAN/Snake-and-Ladder-Game/assets/72678702/e5c0c66a-8933-4408-8889-420973696e37
 https://www.kapwing.com/videos/668bf31c46f155d8ba2a4f60
 
  ## 🔗 Links
