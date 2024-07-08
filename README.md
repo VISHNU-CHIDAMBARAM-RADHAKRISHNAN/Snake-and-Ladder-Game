@@ -1,6 +1,12 @@
 # Snake-and-Ladder-Game
 It is just a Snake and Ladder game for entertainment
 
+# How to run the game
+
+1)Download the code from my github
+2)Open the code with vscode 
+3)In html page run the code using LiveServer or localhost
+
 ## Technologies
 Project is created with:
 
