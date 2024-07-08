@@ -18,7 +18,7 @@ Project is created with:
 
 
 ## Author
-- [Github@ VISHNU CHIDAMBARAM R](https://www.github.com/VISHNU-CHIDAMBARAM-RADHAKRISHNAN)
+- [Github @ VISHNU CHIDAMBARAM R](https://www.github.com/VISHNU-CHIDAMBARAM-RADHAKRISHNAN)
 
 ## social media
 
